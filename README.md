@@ -14,4 +14,13 @@ One GPU in the cloud for dealing with multi-streams.
 Need to distinguish ordinary pedestrian and thief.
 Thief has special behavior.
 - Ordinary pedestrian will just pass through the are. Thief will stay for long time.
-    - test
+    - Face tracking
+        - Face identify for tracking need high quality images. We only use one camera for the 
+          parking area
+    - Pedestrain tracking
+- Thief may has special pose. 
+    - Pose estimate.
+### Thief tracking
+When we detect one thief. We need to notice police. The thief will leave parking area.
+Need to track the thief across the camera.
+
