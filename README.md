@@ -14,4 +14,4 @@ One GPU in the cloud for dealing with multi-streams.
 Need to distinguish ordinary pedestrian and thief.
 Thief has special behavior.
 - Ordinary pedestrian will just pass through the are. Thief will stay for long time.
- - test
+    - test
