@@ -17,7 +17,7 @@ Thief has special behavior.
     - Face tracking
         - Face identify for tracking need high quality images. We only use one camera for the 
           parking area. The image may not good enough to recognize the face.
-    - Pedestrain tracking
+    - Pedestrian tracking
         - May not as accurate as face tracking. According to the hardware condition, choose
           this method for this task.
 - Thief may has special pose. 
@@ -32,4 +32,15 @@ Need to track the thief across the cameras.
     - Can used across the cameras. But rely on high quality images.
 - ReID
     - Can used across the cameras. But can only provide general information.
+### Conclusion
+- Pedestrian tracking
+    - detection
+    - tracking
+- Face detect
+- Pose estimate
+    - key-point detect
+    - cluster
+- ReID
+## Topology
+see the file Topology.jpg
 
