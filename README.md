@@ -6,6 +6,7 @@ Bicycle Battery Theft is a Common Occurrence.
 We want to monitor the parking to detect this issue and help government to track the thief.
 ## Location
 A square bike parking area near a subway station. Several roads connected to this bike parking.
+![Location](location.jpg)
 ## Hardware
 One RGB camera for the parking area. Each road has one RGB camera for tracking.
 One GPU in the cloud for dealing with multi-streams.
