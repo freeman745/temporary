@@ -41,6 +41,9 @@ Need to track the thief across the cameras.
     - key-point detect
     - cluster
 - ReID
-## Topology
-see the file Topology.jpg
-
+## System design
+Check the folder system.
+## Model
+Check the folder model.
+## Experiment
+Check the folder experiment. For analysis the whole system.
