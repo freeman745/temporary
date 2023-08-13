@@ -52,3 +52,4 @@ As we also have ReID module and face may not too clear, we pick DeepLearning met
 ## Deployment
 - Deploy in the cloud
 - Python/C++ with ONNX
+- Output the time each pedestrian stay in the parking
