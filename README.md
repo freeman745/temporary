@@ -50,3 +50,5 @@ Check the folder model.
 Check the folder experiment. For analysis the whole system.
 ## Interface
 Interface document
+## Recommand reading order
+system design -> model -> interface -> experiment
