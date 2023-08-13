@@ -48,5 +48,7 @@ As we also have ReID module and face may not too clear, we pick DeepLearning met
 1. Baseline
     - Use same dataset to train proposal model
 2. Evaluate
-    - 
+    - MOTA+MOTP
 ## Deployment
+- Deploy in the cloud
+- Python/C++ with ONNX
