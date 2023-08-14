@@ -2,6 +2,8 @@
 ## Subject description
 Establish a web system to monitor human poses at a bike parking
 ## Background
+This is one of my past projects. 
+Update some parts of this task since some methods I used before are out of date.
 Bicycle Battery Theft is a Common Occurrence. 
 We want to monitor the parking to detect this issue and help government to track the thief.
 ## Location
