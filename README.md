@@ -50,5 +50,7 @@ Check the folder model.
 Check the folder experiment. For analysis the whole system.
 ## Interface
 Interface document
+## Risk and improvement
+check the folder risk for risk and improvement tasks
 ## Recommand reading order
-system design -> model -> interface -> experiment
+system design -> model -> interface -> experiment -> risk
